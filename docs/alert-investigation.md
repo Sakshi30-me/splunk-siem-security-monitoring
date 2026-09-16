@@ -37,4 +37,4 @@ For a production environment, investigate authentication activity that is unexpe
 
 ## Evidence
 
-06 — [Authentication Investigation Findings](screenshots/06_authentication_investigation_findings.jpeg)
+06 — [Authentication Investigation Findings](screenshots/06_authentication_investigation_findings.png)
