@@ -34,5 +34,6 @@ The results should be investigated in context to determine whether the observed 
 
 ## Evidence
 
-05 — [Authentication Detection](screenshots/05_windows_authentication_detection.jpeg)
+<img width="1473" height="654" alt="05_windows_authentication_detection" src="https://github.com/user-attachments/assets/2e7ebfed-92ea-4d46-8c36-343fcef746d6" />
+
 
