@@ -34,4 +34,5 @@ The results should be investigated in context to determine whether the observed 
 
 ## Evidence
 
-1 — [Authentication Detection](screenshots/04_event_timeline.png)
+05 — [Authentication Detection](screenshots/05_windows_authentication_detection.jpeg)
+
