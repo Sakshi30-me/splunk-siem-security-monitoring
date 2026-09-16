@@ -50,8 +50,13 @@ This provided system activity that could be correlated with authentication event
 
 ## Evidence
 
-01 — [Splunk Events](screenshots/01_Splunk_events.png)
+<img width="1897" height="859" alt="01_Splunk_events" src="https://github.com/user-attachments/assets/7806ee60-bdac-42ba-921f-446095214797" />
 
-02 — [Authentication Events](screenshots/02_authentication_events.png)
+---
 
-03 — [System Activity](screenshots/03_system_activity.png)
+<img width="1891" height="902" alt="02_authentication_events" src="https://github.com/user-attachments/assets/b1eb53ed-b7a9-4da6-98e7-24446d45a6d0" />
+
+---
+
+<img width="1902" height="877" alt="03_system_activity" src="https://github.com/user-attachments/assets/5f98d1d3-8f12-45c5-bf44-c294e9abf292" />
+
