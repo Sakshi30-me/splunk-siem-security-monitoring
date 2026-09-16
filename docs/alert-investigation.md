@@ -37,4 +37,5 @@ For a production environment, investigate authentication activity that is unexpe
 
 ## Evidence
 
-06 — [Authentication Investigation Findings](screenshots/06_authentication_investigation_findings.png)
+<img width="1897" height="867" alt="06_authentication_investigation_findings" src="https://github.com/user-attachments/assets/64448934-1b5e-4a7d-ae87-40dd64969393" />
+
